@@ -3,10 +3,6 @@ using namespace std;
 
 int main()
 {
-    #ifdef _WIN32
-    // Включает поддержку UTF-8 для консоли Windows
-    system("chcp 65001 > nul"); 
-    #endif
     Quiz myQuiz;
     Language lang = myQuiz.selectLanguage();
     if (lang == Language::Russian) {
