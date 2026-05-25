@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C/C++: Build and Run via Makefile",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-Command",
+                "if (Get-Command mingw32-make -ErrorAction SilentlyContinue) { mingw32-make } else { make }; if ($?) { chcp 65001; & ./output/main.exe }"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Автоматическая сборка через Makefile и запуск игры"
+        }
+    ]
+}
