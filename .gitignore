@@ -1,0 +1,15 @@
+# build artifacts
+output/
+build/
+*.o
+*.out
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# generated / test data
+score.json
+test_scores.json
+test_scores_top5.json
+data/scores.json

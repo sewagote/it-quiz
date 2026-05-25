@@ -1,0 +1,21 @@
+{
+    "categories": {
+        "Networking": "Networking",
+        "Programming": "Programming",
+        "Hardware": "Hardware",
+        "OC": "OC"
+    },
+    "question": "Question: ",
+    "menuExit": "Exit",
+    "menuStart": "Start",
+    "enterName": "Enter your name: ",
+    "menuLeaderboard": "Leaderboard",
+    "streakBonus": "Bonus streak: ",
+    "explanation": "Explanation: ",
+    "selectCategories": "Select categories for questions (separated by spaces):",
+    "enterN": "Enter N for the category:",
+    "correctAnswer": "Correct option",
+    "incorrectAnswer": "Incorrect option",
+    "IncorrectInput": "Input error, please try again",
+    "result": "Total user points = "
+}

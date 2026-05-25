@@ -1,0 +1,612 @@
+{
+  "questions": [
+    {
+      "text": "Which component is known as the brain of the computer?",
+      "options": ["RAM", "GPU", "CPU", "Motherboard"],
+      "correct": 3,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "CPU (Central Processing Unit) is the primary component that executes instructions and processes data."
+    },
+    {
+      "text": "What does DNS stan d for?",
+      "options": ["Domain Name System", "Digital Network Service", "Data Node Serial"],
+      "correct": 1,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "DNS stands for Domain Name System - it translates domain names like google.com into IP addresses."
+    },
+    {
+      "text": "Which of the following is a programming language?",
+      "options": ["HTML", "C++", "HTTP", "JSON"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "C++ is a general-purpose programming language. HTML, HTTP and JSON are markup/protocol/data formats."
+    },
+    {
+      "text": "What does OOP stand for?",
+      "options": ["Object Oriented Programming", "Open Operational Process", "Output Optimization Protocol", "Object Output Procedure"],
+      "correct": 1,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "OOP stands for Object Oriented Programming - a paradigm based on objects and classes."
+    },
+    {
+      "text": "What is a variable?",
+      "options": ["A fixed value in memory", "A named storage location in memory", "A type of loop", "A function parameter"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "A variable is a named storage location in memory that holds a value which can change during execution."
+    },
+    {
+      "text": "What does int stand for in C++?",
+      "options": ["Internal", "Integer", "Interface", "Iteration"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "int stands for Integer - a data type that stores whole numbers."
+    },
+    {
+      "text": "What is RAM?",
+      "options": ["Read Access Memory", "Random Access Memory", "Rapid Access Module", "Read And Modify"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "RAM stands for Random Access Memory - temporary storage that the CPU uses to store data currently in use."
+    },
+    {
+      "text": "What is a GPU primarily used for?",
+      "options": ["Storing data", "Rendering graphics and parallel processing", "Managing network connections", "Running the operating system"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "GPU (Graphics Processing Unit) was originally designed for rendering graphics but is now also used for parallel computing tasks."
+    },
+    {
+      "text": "What does SSD stand for?",
+      "options": ["Super Speed Drive", "Solid State Drive", "System Storage Device", "Serial Storage Disk"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "SSD stands for Solid State Drive - a storage device that uses flash memory instead of spinning disks."
+    },
+    {
+      "text": "What is the purpose of a motherboard?",
+      "options": ["To store data permanently", "To connect all components of a computer", "To process graphics", "To provide internet access"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "The motherboard is the main circuit board that connects and allows communication between all components of a computer."
+    },
+    {
+      "text": "What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "High Traffic Transmission Protocol", "Hyperlink Text Transfer Process", "Host Transfer Transmission Protocol"],
+      "correct": 1,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "HTTP stands for HyperText Transfer Protocol - the foundation of data communication on the World Wide Web."
+    },
+    {
+      "text": "What is an IP address?",
+      "options": ["A website name", "A unique numerical identifier for a device on a network", "A type of internet cable", "A network speed measurement"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "An IP address is a unique numerical label assigned to each device connected to a network."
+    },
+    {
+      "text": "What does VPN stand for?",
+      "options": ["Virtual Private Network", "Verified Public Node", "Variable Packet Network", "Virtual Protocol Node"],
+      "correct": 1,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "VPN stands for Virtual Private Network - it creates an encrypted connection over a public network."
+    },
+    {
+      "text": "What is the purpose of a firewall?",
+      "options": ["To speed up internet connection", "To monitor and control incoming and outgoing network traffic", "To store network passwords", "To assign IP addresses"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "A firewall monitors and controls network traffic based on security rules to protect a network from unauthorized access."
+    },
+    {
+      "text": "What is the kernel of an operating system?",
+      "options": ["The user interface", "The core component that manages hardware and system resources", "The file manager", "The network driver"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "The kernel is the core of an OS that manages communication between hardware and software."
+    },
+    {
+      "text": "What does CLI stand for?",
+      "options": ["Computer Language Interface", "Command Line Interface", "Central Logic Interpreter", "Core Linux Instance"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Easy",
+      "explanation": "CLI stands for Command Line Interface - a text-based interface for interacting with a computer."
+    },
+    {
+      "text": "What is a process in an operating system?",
+      "options": ["A file stored on disk", "A program currently being executed", "A type of file system", "A network connection"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Medium",
+      "explanation": "A process is an instance of a program that is being executed by the operating system."
+    },
+    {
+      "text": "What does GUI stand for?",
+      "options": ["General User Input", "Graphical User Interface", "Global Unix Instance", "General Utility Interface"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Easy",
+      "explanation": "GUI stands for Graphical User Interface - a visual interface that allows users to interact with a computer using graphics."
+    },
+    {
+      "text": "What is a file system?",
+      "options": ["A method for organizing and storing files on a storage device", "A type of network protocol", "A programming language", "A hardware component"],
+      "correct": 1,
+      "category": "OC",
+      "difficulty": "Medium",
+      "explanation": "A file system is a method used by operating systems to organize, store, and retrieve data on storage devices."
+    },
+    {
+      "text": "What is a pointer in C++?",
+      "options": ["A variable that stores a memory address", "A type of loop", "A function that returns a value", "A class method"],
+      "correct": 1,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "A pointer is a variable that stores the memory address of another variable."
+    },
+    {
+      "text": "What does TCP stand for?",
+      "options": ["Transfer Control Protocol", "Transmission Control Protocol", "Terminal Connection Protocol", "Text Communication Protocol"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "TCP stands for Transmission Control Protocol - it ensures reliable, ordered delivery of data between applications."
+    },
+    {
+      "text": "What is the difference between HDD and SSD?",
+      "options": ["HDD uses flash memory, SSD uses spinning disks", "SSD uses flash memory, HDD uses spinning disks", "They are identical in technology", "HDD is faster than SSD"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "SSD uses flash memory with no moving parts, while HDD uses spinning magnetic disks. SSDs are faster but traditionally more expensive."
+    },
+    {
+      "text": "What is a subnet mask?",
+      "options": ["A type of firewall", "A number that defines the network and host portions of an IP address", "A VPN protocol", "A DNS record type"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "A subnet mask is a 32-bit number that divides an IP address into network and host portions."
+    },
+    {
+      "text": "What is inheritance in OOP?",
+      "options": ["A way to copy files", "A mechanism where a class acquires properties of another class", "A type of variable", "A network protocol"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "Inheritance is an OOP mechanism that allows a class to inherit properties and methods from another class."
+    },
+    {
+      "text": "What is virtual memory?",
+      "options": ["Memory that doesn't physically exist", "A technique that uses disk space to extend RAM", "A type of RAM", "Cloud storage"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "Virtual memory is a technique that allows the OS to use disk space as an extension of RAM when physical memory is full."
+    },
+    {
+      "text": "What is a MAC address?",
+      "options": ["An address used only on Apple devices", "A unique hardware identifier assigned to a network interface", "A type of IP address", "A software license number"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "A MAC address is a unique hardware identifier assigned to a network interface card by the manufacturer."
+    },
+    {
+      "text": "What is the clock speed of a CPU measured in?",
+      "options": ["Bytes", "Gigahertz", "Megapixels", "Watts"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "CPU clock speed is measured in GHz (Gigahertz) and represents how many cycles per second the processor can execute."
+    },
+    {
+      "text": "What is a constructor in OOP?",
+      "options": ["A function that destroys objects", "A special method called when an object is created", "A type of loop", "A global variable"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "A constructor is a special method that is automatically called when an object of a class is instantiated."
+    },
+    {
+      "text": "What does BIOS stand for?",
+      "options": ["Basic Input Output System", "Binary Integrated Operating System", "Boot Input Output Software", "Basic Internal Operating System"],
+      "correct": 1,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "BIOS stands for Basic Input Output System - firmware that initializes hardware during the boot process."
+    },
+    {
+      "text": "What is multithreading in an OS?",
+      "options": ["Sewing multiple threads together", "Running multiple threads of a process simultaneously", "A type of network protocol", "A file system technique"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "Multithreading allows a single process to run multiple threads simultaneously, improving performance on multi-core processors."
+    },
+    {
+      "text": "What is the purpose of ARP in networking?",
+      "options": ["To assign IP addresses", "To map IP addresses to MAC addresses", "To encrypt network traffic", "To route packets between networks"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "ARP (Address Resolution Protocol) maps IP addresses to MAC addresses on a local network."
+    },
+    {
+      "text": "What is a stack in programming?",
+      "options": ["A type of database", "A Last-In-First-Out data structure", "A network protocol", "A graphics card"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "A stack is a LIFO (Last-In-First-Out) data structure where the last element added is the first to be removed."
+    },
+    {
+      "text": "What does DHCP stand for?",
+      "options": ["Dynamic Host Configuration Protocol", "Digital Host Control Protocol", "Direct Hardware Communication Protocol", "Dynamic HTTP Connection Protocol"],
+      "correct": 1,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "DHCP automatically assigns IP addresses and other network configuration to devices on a network."
+    },
+    {
+      "text": "What is cache memory?",
+      "options": ["Permanent storage", "Small high-speed memory located close to the CPU", "Virtual memory", "External storage"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "Cache memory is small, fast memory located close to the CPU that stores frequently accessed data."
+    },
+    {
+      "text": "What is a deadlock in an operating system?",
+      "options": ["A locked file", "A situation where two or more processes are stuck waiting for each other", "A crashed program", "A security vulnerability"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A deadlock occurs when two or more processes are each waiting for the other to release a resource, causing all of them to be stuck."
+    },
+    {
+      "text": "What is encapsulation in OOP?",
+      "options": ["Wrapping data in a capsule shape", "Bundling data and methods that operate on that data within a class", "A type of inheritance", "A network protocol"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "Encapsulation bundles data and the methods that operate on it within a class, hiding internal details from outside."
+    },
+    {
+      "text": "What is NAT in networking?",
+      "options": ["Network Address Translation", "Node Allocation Table", "Network Access Token", "Null Address Transfer"],
+      "correct": 1,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "NAT translates private IP addresses to a public IP address, allowing multiple devices to share one public IP."
+    },
+    {
+      "text": "What is the purpose of a CPU cooler?",
+      "options": ["To speed up the CPU", "To prevent the CPU from overheating", "To increase RAM capacity", "To improve graphics performance"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "A CPU cooler dissipates heat generated by the processor to prevent overheating and thermal throttling."
+    },
+    {
+      "text": "What is a semaphore in an OS?",
+      "options": ["A traffic signal", "A synchronization tool used to control access to shared resources", "A type of file system", "A network protocol"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A semaphore is a synchronization mechanism used to control access to shared resources in concurrent programming."
+    },
+    {
+      "text": "What is polymorphism in OOP?",
+      "options": ["Having multiple constructors", "The ability of objects to take many forms", "A type of database", "A network protocol"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "Polymorphism allows objects of different classes to be treated as objects of a common superclass, with each responding differently to the same method call."
+    },
+    {
+      "text": "What is the OSI model?",
+      "options": ["An operating system", "A conceptual framework with 7 layers describing network communication", "A type of hardware", "A programming paradigm"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "The OSI (Open Systems Interconnection) model is a 7-layer framework that standardizes network communication functions."
+    },
+    {
+      "text": "What is pipelining in a CPU?",
+      "options": ["Cooling system for processors", "A technique where multiple instructions are overlapped in execution", "A type of memory", "A storage interface"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Hard",
+      "explanation": "Pipelining allows a CPU to overlap the execution of multiple instructions, improving throughput."
+    },
+    {
+      "text": "What is a race condition in OS?",
+      "options": ["A CPU benchmark test", "A situation where the output depends on the sequence of uncontrollable events", "A type of sorting algorithm", "A network speed test"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A race condition occurs when multiple processes access shared data simultaneously and the outcome depends on execution order."
+    },
+    {
+      "text": "What is a lambda function?",
+      "options": ["A Greek letter used in math", "An anonymous function defined inline", "A type of class", "A network protocol"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "A lambda function is an anonymous function that can be defined inline without a name, useful for short operations."
+    },
+    {
+      "text": "What is HTTPS?",
+      "options": ["A faster version of HTTP", "HTTP with SSL/TLS encryption for secure communication", "A new internet protocol", "A type of web server"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "HTTPS is HTTP with SSL/TLS encryption, providing secure communication between a browser and web server."
+    },
+    {
+      "text": "What is overclocking?",
+      "options": ["Setting the wrong time on a computer", "Running a CPU or GPU faster than its rated speed", "A type of virus", "A power saving feature"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "Overclocking is the practice of running a CPU or GPU at a higher clock speed than officially specified to gain performance."
+    },
+    {
+      "text": "What is a page fault in an OS?",
+      "options": ["An error in a web browser", "When a program accesses a memory page not currently in RAM", "A corrupted file", "A network error"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A page fault occurs when a program tries to access a memory page that is not currently loaded in RAM, causing the OS to load it from disk."
+    },
+    {
+      "text": "What is a template in C++?",
+      "options": ["A pre-designed document", "A feature that allows writing generic code that works with any data type", "A type of class", "A network protocol"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "Templates in C++ allow writing generic functions and classes that work with any data type."
+    },
+    {
+      "text": "What is BGP in networking?",
+      "options": ["Basic Gateway Protocol", "Border Gateway Protocol used to route traffic between autonomous systems", "Bandwidth Group Policy", "Binary Gateway Process"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "BGP (Border Gateway Protocol) is the routing protocol used to exchange routing information between autonomous systems on the internet."
+    },
+    {
+      "text": "What is the purpose of a PSU in a computer?",
+      "options": ["To process data", "To convert AC power to DC power for computer components", "To store data", "To connect to the internet"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "A PSU (Power Supply Unit) converts AC power from the wall outlet to DC power used by computer components."
+    },
+    {
+      "text": "What is context switching in an OS?",
+      "options": ["Changing the desktop theme", "Saving and restoring the state of a process so the CPU can switch between processes", "Switching between applications", "A type of memory management"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "Context switching is the process of saving the state of a running process and loading the state of another, allowing the CPU to multitask."
+    },
+    {
+      "text": "What is the difference between a class and an object?",
+      "options": ["They are the same thing", "A class is a blueprint, an object is an instance of that blueprint", "An object is a blueprint, a class is an instance", "Classes are only in Java"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "A class is a blueprint or template that defines attributes and methods, while an object is a specific instance created from that class."
+    },
+    {
+      "text": "What is SSL/TLS?",
+      "options": ["A type of operating system", "Cryptographic protocols that provide secure communication over a network", "A hardware component", "A programming language"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "SSL/TLS are cryptographic protocols that encrypt data transmitted over networks, ensuring security and privacy."
+    },
+    {
+      "text": "What is thermal throttling?",
+      "options": ["A cooking technique", "When a CPU reduces its speed to prevent overheating", "A type of network congestion", "A memory management technique"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "Thermal throttling occurs when a CPU or GPU automatically reduces its clock speed to prevent damage from excessive heat."
+    },
+    {
+      "text": "What is a mutex?",
+      "options": ["A type of connector", "A synchronization primitive that prevents multiple threads from accessing a resource simultaneously", "A file format", "A network protocol"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A mutex (mutual exclusion) is a locking mechanism that ensures only one thread can access a shared resource at a time."
+    },
+    {
+      "text": "What is the difference between stack and heap memory?",
+      "options": ["They are identical", "Stack is automatic/fast for local variables, heap is dynamic/manual for allocated memory", "Heap is faster than stack", "Stack is only used in Python"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "Stack memory is automatically managed and used for local variables, while heap memory is manually allocated and used for dynamic data."
+    },
+    {
+      "text": "What is a VLAN?",
+      "options": ["A very large area network", "A logical network segment that groups devices regardless of physical location", "A type of VPN", "A wireless network standard"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Hard",
+      "explanation": "A VLAN (Virtual Local Area Network) logically segments a network, grouping devices together regardless of their physical location."
+    },
+    {
+      "text": "How many cores does a dual-core processor have?",
+      "options": ["1", "2", "4", "8"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "A dual-core processor has 2 cores, allowing it to process two tasks simultaneously."
+    },
+    {
+      "text": "What is scheduling in an OS?",
+      "options": ["Setting the system clock", "Determining the order in which processes get CPU time", "Managing files", "Installing software"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Medium",
+      "explanation": "CPU scheduling determines the order in which processes in the ready queue get access to the CPU."
+    },
+    {
+      "text": "What is an abstract class?",
+      "options": ["A class with no methods", "A class that cannot be instantiated and must be subclassed", "A private class", "A static class"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "An abstract class cannot be instantiated directly and serves as a blueprint for other classes that must implement its abstract methods."
+    },
+    {
+      "text": "What is latency in networking?",
+      "options": ["The speed of a network", "The time delay for data to travel from source to destination", "The amount of data transferred", "The number of connected devices"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "Latency is the time it takes for data to travel from its source to its destination, typically measured in milliseconds."
+    },
+    {
+      "text": "What is the purpose of a heat sink?",
+      "options": ["To generate heat", "To absorb and dissipate heat from components like the CPU", "To measure temperature", "To cool RAM"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Easy",
+      "explanation": "A heat sink absorbs heat from components like the CPU and dissipates it into the surrounding air."
+    },
+    {
+      "text": "What is the difference between 32-bit and 64-bit OS?",
+      "options": ["No practical difference", "64-bit can address more memory and process larger data chunks", "32-bit is faster", "64-bit only works on newer CPUs"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Medium",
+      "explanation": "A 64-bit OS can address vastly more memory (theoretically 16 exabytes) and process larger data chunks than a 32-bit OS which is limited to 4GB RAM."
+    },
+    {
+      "text": "What is a linked list?",
+      "options": ["A list of website links", "A data structure where each element points to the next", "A type of array", "A database table"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "A linked list is a data structure where each element (node) contains data and a pointer to the next node."
+    },
+    {
+      "text": "What is bandwidth in networking?",
+      "options": ["The width of a network cable", "The maximum data transfer rate of a network", "The number of connected devices", "The latency of a connection"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Easy",
+      "explanation": "Bandwidth is the maximum amount of data that can be transmitted over a network in a given time, measured in bits per second."
+    },
+    {
+      "text": "What is PCIe?",
+      "options": ["Personal Computer Interface external", "Peripheral Component Interconnect Express - a high-speed interface for connecting components", "A type of CPU", "A networking standard"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Hard",
+      "explanation": "PCIe (Peripheral Component Interconnect Express) is a high-speed serial interface used to connect graphics cards, SSDs, and other components."
+    },
+    {
+      "text": "What is a zombie process?",
+      "options": ["A virus", "A process that has finished but its entry remains in the process table", "A process consuming all CPU", "A malware type"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "A zombie process has completed execution but still has an entry in the process table because its parent hasn't read its exit status."
+    },
+    {
+      "text": "What is a destructor in C++?",
+      "options": ["A function that creates objects", "A special method called when an object is destroyed to free resources", "A type of pointer", "A loop construct"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Medium",
+      "explanation": "A destructor is a special method automatically called when an object goes out of scope or is deleted, used to free allocated resources."
+    },
+    {
+      "text": "What is a load balancer?",
+      "options": ["A power management tool", "A device that distributes network traffic across multiple servers", "A type of firewall", "A storage device"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "A load balancer distributes incoming network traffic across multiple servers to ensure no single server becomes overwhelmed."
+    },
+    {
+      "text": "What does DDR stand for in DDR RAM?",
+      "options": ["Double Data Rate", "Direct Data Register", "Dynamic Dual Ram", "Dedicated Data Resource"],
+      "correct": 1,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "DDR stands for Double Data Rate - it transfers data on both the rising and falling edges of the clock cycle, doubling throughput."
+    },
+    {
+      "text": "What is I/O scheduling in an OS?",
+      "options": ["Scheduling system restarts", "Managing and ordering requests to I/O devices to optimize performance", "Scheduling user logins", "Managing network I/O only"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "I/O scheduling orders and manages requests to input/output devices like hard drives to minimize seek time and maximize throughput."
+    },
+    {
+      "text": "What is the difference between == and = in C++?",
+      "options": ["No difference", "= is assignment, == is comparison", "== is assignment, = is comparison", "Both are comparison operators"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Easy",
+      "explanation": "In C++, = is the assignment operator that stores a value, while == is the equality comparison operator that checks if two values are equal."
+    },
+    {
+      "text": "What is CDN in networking?",
+      "options": ["Central Data Node", "Content Delivery Network - servers distributed geographically to deliver content faster", "Connected Device Network", "Core DNS Node"],
+      "correct": 2,
+      "category": "Networking",
+      "difficulty": "Medium",
+      "explanation": "A CDN (Content Delivery Network) is a system of distributed servers that deliver web content to users based on their geographic location."
+    },
+    {
+      "text": "What is the purpose of thermal paste?",
+      "options": ["To glue the CPU to the motherboard", "To improve heat transfer between the CPU and heat sink", "To protect against static electricity", "To lubricate fans"],
+      "correct": 2,
+      "category": "Hardware",
+      "difficulty": "Medium",
+      "explanation": "Thermal paste fills microscopic gaps between the CPU and heat sink, improving thermal conductivity and heat transfer."
+    },
+    {
+      "text": "What is memory fragmentation in an OS?",
+      "options": ["Corrupted memory", "Inefficient use of memory where free space is broken into small unusable chunks", "Low memory condition", "Memory overflow"],
+      "correct": 2,
+      "category": "OC",
+      "difficulty": "Hard",
+      "explanation": "Memory fragmentation occurs when free memory is divided into small, non-contiguous chunks, making it difficult to allocate large blocks."
+    },
+    {
+      "text": "What is a pure virtual function in C++?",
+      "options": ["A function with no parameters", "A virtual function with no implementation that must be overridden in derived classes", "A static function", "A function returning void"],
+      "correct": 2,
+      "category": "Programming",
+      "difficulty": "Hard",
+      "explanation": "A pure virtual function is declared with = 0 and has no implementation in the base class, forcing derived classes to provide their own implementation."
+    }
+  ]
+}
